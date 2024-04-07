@@ -3,7 +3,6 @@
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hesaplarım</h3>
 <p align="center">
 <a href="https://steamcommunity.com/id/emogooo/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://www.facebook.com/emogooo" target"blank_"><img src="https://img.shields.io/badge/facebook%20-171a21.svg?&style=for-the-badge&logo=facebook&logoColor=blue"></a>
 <a href="https://www.youtube.com/@emogo" target"blank_"><img src="https://img.shields.io/badge/youtube%20-171a21.svg?&style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://www.linkedin.com/in/emogo/" target"blank_"><img src="https://img.shields.io/badge/linkedin%20-171a21.svg?&style=for-the-badge&logo=linkedin&logoColor=purple"></a>
 <br>
