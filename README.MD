@@ -9,7 +9,7 @@
 </p>
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikleri</summary>
+  <summary style="font-weight: bold; font-size: 18px">GitHub Statics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=emogooo&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emogooo&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=emogooo&theme=nord" width="%100" height="150px" alt="stats" />
